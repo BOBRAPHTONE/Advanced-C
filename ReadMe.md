@@ -1,4 +1,5 @@
 """
+https://ideone.com/qTPPQV
 if (!(keyBegin < keyEnd))
 
             return;
